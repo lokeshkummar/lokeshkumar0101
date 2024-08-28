@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hotel Booking Website](https://hotel-booking-liart-two.vercel.app/)
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **Front-End Development.**
 
 - 👯 I’m looking to collaborate on [Portfolio Website](https://portfolio-website-ten-pi.vercel.app/)
 
