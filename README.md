@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 👯 I’m looking to collaborate on [Portfolio Website](https://portfolio-website-ten-pi.vercel.app/)
-
 - 👨‍💻 All of my projects are available at [https://portfolio-website-ten-pi.vercel.app/](https://portfolio-website-ten-pi.vercel.app/)
 
 - 📫 How to reach me **lokeshkumar.080806@gmail.com**
