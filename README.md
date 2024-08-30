@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 👯 I’m looking to collaborate on [Portfolio Website](https://portfolio-website-ten-pi.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-ten-pi.vercel.app/](https://portfolio-website-ten-pi.vercel.app/)
 
