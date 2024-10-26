@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-End Development**
 
-- 🔭 I’m currently working on [Hotel Booking Website](https://nkhr-solutions.netlify.app/)
+- 🔭 I’m currently working on [NKHR Solutions Agency Website](https://nkhr-solutions.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-ten-pi.vercel.app/](https://portfolio-website-ten-pi.vercel.app/)
 
